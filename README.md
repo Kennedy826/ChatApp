@@ -33,8 +33,7 @@ npm install
 
 2. Start the client:
 
-```
-npm start
+npm run dev
 ```
 
 ## Author
